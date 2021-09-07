@@ -1,0 +1,32 @@
+*{
+    font-family: cursive;
+    margin: 10px;
+}
+
+h1{
+    font-family: cursive;
+    color: white;
+    background-color: black;
+    padding: 7px;
+}
+
+span{
+    color: rgb(0, 255, 255);
+    margin: 0;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    background-color: rgb(102, 51, 153) ;
+    padding: 5px;
+    
+}
+
+footer{
+    background-color: rgb(159, 197, 248);
+    text-align: right;
+    text-decoration: underline;
+    padding: 4px;
+    color: rgb(33, 20, 78);
+}
